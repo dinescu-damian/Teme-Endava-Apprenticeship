@@ -1,0 +1,58 @@
+.contact-section {
+    max-width: 500px;
+}
+
+.contact-section p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dot-border {
+    border-top:10px dotted rgb(0, 151, 121);
+    border-bottom:0px;
+    margin-top: -15px;
+    margin-bottom: 25px;
+}
+
+.person-name {
+    color: rgb(0, 220, 176);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.job-title {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.contact-title {
+    color: rgb(61, 61, 61);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.contact-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    border: 5px solid rgb(0, 151, 121);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(239, 239, 239);
+
+    line-height: 20px;
+}
+
+.contact-box ul {
+    padding-left: 25px;
+}
+
+.mail-link {
+    color: green;
+}
+
+.web-link {
+    color: orangered;
+}
+
